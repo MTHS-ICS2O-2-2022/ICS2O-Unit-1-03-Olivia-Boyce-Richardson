@@ -4,13 +4,16 @@
 */
 
 body {
-  background-color: rgb(219, 157, 157);
+  background-color: rgb(219 157 157);
 }
 
 h1 {
-  background-color: rgb(202, 121, 255);
-  color: hsl(0 0 0);
+  background-color: rgb(202 121 255);
+  color: rgb(0 0 0);
   padding: 40px;
   text-align: center;
 }
-{background-color: #e6cc85;}
+
+{background-color: #e6cc85;
+
+}
